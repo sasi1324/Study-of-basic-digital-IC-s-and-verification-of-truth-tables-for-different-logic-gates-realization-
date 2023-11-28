@@ -72,7 +72,8 @@ Logic symbol & Truthtable
 
 RTL realization
 
-![WhatsApp Image 2023-11-28 at 19 28 34_2f8dcdcc](https://github.com/sasi1324/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150313315/0b826025-3919-4f29-947c-19fa1562b3f1)
+![WhatsApp Image 2023-11-28 at 19 28 34_2f8dcdcc](https://github.com/sasi1324/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150313315/31f2fee9-e716-4ceb-990a-ad377dd817d5)
+
 
 Output:
 
