@@ -72,7 +72,8 @@ Logic symbol & Truthtable
 
 RTL realization
 
-https://github.com/sasi1324/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/README.md
+![image](https://github.com/sasi1324/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/150313315/b5a1d3b9-6b1a-4ea4-b4bb-35fc84f20577)
+
 
 Output:
 
